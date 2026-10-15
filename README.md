@@ -1,4 +1,4 @@
-# ಜನಪದ ವಿಚಾರ ಡಿಜಿಟಲ್ ಸಂಚಿಕೆಗಳು – #ServantsOfKnowledge ಸಹಯೋಗದಲ್ಲಿ ಡಿಜಿಟಲೀಕರಣ
+# ಜನಪದ ವಿಚಾರ ಡಿಜಿಟಲ್ ಸಂಚಿಕೆಗಳು
 
 Digital archive hosted at **https://janapadavichara.sanchaya.net**
 
