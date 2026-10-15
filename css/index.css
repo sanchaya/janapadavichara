@@ -1327,9 +1327,9 @@ input[type="submit"].btn.btn-mini {
 */
 body {
   padding-top: 140px;
-  background-color: #efebe9;
+  background-color: #f8f9fa;
   background-attachment: fixed;
-  color: #3e2723;
+  color: #1a1a2e;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
@@ -1441,7 +1441,7 @@ h4 {
   text-transform: uppercase;
   font: 400 16px 'Open Sans Condensed', sans-serif;
   line-height: 18px;
-  color: #5d4037;
+  color: #4361ee;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1456,7 +1456,7 @@ h3 a {
 }
 h3 a:hover,
 h3 a:active {
-  color: #5d4037;
+  color: #4361ee;
 }
 hr {
   margin: 8px 0;
@@ -1468,7 +1468,7 @@ a#infos {
   right: 50px;
   top: 50%;
   margin-top: -13px;
-  color: #3e2723;
+  color: #1a1a2e;
   text-shadow: none;
   font: bold 26px Arial, Helvetica, sans-serif;
   line-height: 26px;
@@ -1480,7 +1480,7 @@ a#infos {
 }
 a#infos:hover {
   text-decoration: none;
-  color: #5d4037;
+  color: #4361ee;
 }
 #brandlogo {
   display: inline-block;
@@ -1504,7 +1504,7 @@ a#infos:hover {
   text-shadow: 1px 0 1px rgba(255, 255, 255, 0.6);
 }
 #brandtext a:hover {
-  color: #e64a19;
+  color: #7b8cff;
 }
 #brandtext .tagline {
   display: block;
@@ -1522,7 +1522,7 @@ a#infos:hover {
 }
 .navlinks a:hover {
   text-decoration: underline;
-  color: #e64a19;
+  color: #7b8cff;
 }
 .partner-logos {
   display: none;
@@ -1531,8 +1531,8 @@ a#infos:hover {
   margin-top: 10px;
   align-items: center;
   overflow-x: auto;
-  background: rgba(93, 64, 55, 0.08);
-  border: 1px solid rgba(93, 64, 55, 0.15);
+  background: rgba(67, 97, 238, 0.08);
+  border: 1px solid rgba(67, 97, 238, 0.15);
   border-radius: 8px;
   padding: 12px 16px;
 }
@@ -1545,12 +1545,12 @@ a#infos:hover {
   align-items: center;
   gap: 6px;
   text-decoration: none;
-  color: #3e2723;
+  color: #1a1a2e;
   transition: all 0.2s;
   flex-shrink: 0;
 }
 .partner-logos a:hover {
-  color: #5d4037;
+  color: #4361ee;
   transform: scale(1.05);
 }
 .partner-logos a img {
@@ -1592,7 +1592,7 @@ a#infos:hover {
   text-shadow: none;
 }
 #jsinfos h4 a {
-  color: #5d4037;
+  color: #4361ee;
 }
 #jsinfos p,
 #jsinfos a {
@@ -1632,7 +1632,7 @@ a#infos:hover {
   color: #555;
 }
 .footer p a {
-  color: #5d4037;
+  color: #4361ee;
 }
 .recrutement {
   color: #eedb59;
@@ -1663,7 +1663,7 @@ a#infos:hover {
   margin-right: 10px;
 }
 #seeAlsoToggle {
-  color: #6d4c41;
+  color: #4361ee;
   font: bold 14px 'Open Sans Condensed', sans-serif;
   text-decoration: none;
   cursor: pointer;
@@ -1671,7 +1671,7 @@ a#infos:hover {
   transition: color 0.2s;
 }
 #seeAlsoToggle:hover {
-  color: #5d4037;
+  color: #4361ee;
   text-decoration: underline;
 }
 #filterBy {
@@ -1688,10 +1688,10 @@ a#infos:hover {
   margin-left: 0;
 }
 #filterBy a {
-  color: #6d4c41;
+  color: #4361ee;
 }
  #filterBy .active {
-  color: #3e2723;
+  color: #1a1a2e;
   font-weight: bold;
 }
 /*!
